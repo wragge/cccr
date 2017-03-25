@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "The practice of play"
+title: "The multiplication of contexts"
 ---
 
 
