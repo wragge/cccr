@@ -1,6 +1,6 @@
-future:      false
+future:      true
 # Set baseurl to the base path of the site eg "/mytalk"
-baseurl:     "/deakin-hdr"
+baseurl:     "/cccr"
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
@@ -16,9 +16,9 @@ kramdown:
 #  - jemoji
 
 ## personalize your slide show
-title:       The practice of play
+title:       The multiplication of contexts
 author:      Tim Sherratt
-description: Keynote presentation for Deakin Arts HDR Summer School
+description: CCCR seminar
 
 sass:
   style:     :compressed
