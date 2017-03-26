@@ -1,4 +1,4 @@
 ---
 layout: slide
-title: "Playing by the rules"
+title: "Making a move"
 ---
